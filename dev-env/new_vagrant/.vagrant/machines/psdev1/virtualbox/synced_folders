@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/Abigail":{"automount":false,"mount_options":["uid=501","gid=501"],"SharedFoldersEnableSymlinksCreate":true,"guestpath":"/home/Abigail","hostpath":"/Users/Abigail","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/Abigail/its/s3/dev-env/new_vagrant","disabled":false,"__vagrantfile":true}}}

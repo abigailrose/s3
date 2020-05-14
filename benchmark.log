@@ -1,0 +1,4 @@
+Thu, 23 Apr 2020 21:53:52 GMT: Parameters: url=https://play.min.io/, bucket=loadgen, region=us-east-1, duration=60, threads=1, loops=1, size=1M
+Thu, 23 Apr 2020 21:54:54 GMT: Loop 1: PUT time 61.3 secs, objects = 16, speed = 267.4KB/sec, 0.3 operations/sec. Slowdowns = 0
+Thu, 23 Apr 2020 21:55:00 GMT: Loop 1: GET time 6.1 secs, objects = 16, speed = 2.6MB/sec, 2.6 operations/sec. Slowdowns = 0
+Thu, 23 Apr 2020 21:55:01 GMT: Loop 1: DELETE time 1.4 secs, 11.5 deletes/sec. Slowdowns = 0
